@@ -1,0 +1,32 @@
+.top{
+  padding: 15px;
+  border: 1px solid grey;
+}
+.btn-default{
+  background-color: white;
+  color: grey;  
+}
+.btn-default:hover{
+  background-color: grey;
+  color: white;
+}
+.bottom{
+  background-color: grey;
+  padding: 15px;
+}
+.Input h1{
+  display: inline-block;
+  border-bottom: 3px solid black;
+}
+#stateInput{
+  padding-right: 10px;
+}
+.one{
+  display: none;
+}
+.two{
+  display: none;  
+}
+.three{
+  display: none;
+}
